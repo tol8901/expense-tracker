@@ -47,7 +47,6 @@ const ExpenseForm = () => {
       amount: enteredAmount,
       date: new Date(enteredDate)
     };
-
     console.log(expenseData);
   };
 
